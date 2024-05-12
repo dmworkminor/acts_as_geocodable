@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add OBB save_txt feature (#7450)
